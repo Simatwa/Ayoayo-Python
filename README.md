@@ -49,7 +49,7 @@ This project implements a text-based version of the Ayoayo game in Python. The i
 ### Example Usage
 
 ```python
-from ayoayo import Ayoayo
+from main import Ayoayo
 
 # Initialize game
 game = Ayoayo()
